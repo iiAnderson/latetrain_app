@@ -2,6 +2,7 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/alex_brush</item>
+        <item>@font/antic</item>
         <item>@font/fira_sans_extralight</item>
     </array>
 </resources>

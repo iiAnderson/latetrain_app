@@ -3,7 +3,7 @@
 
     <item android:state_focused="true" android:drawable="@drawable/edittext_style_border_activated"/>
 
-    <item android:drawable="@drawable/edittext_style_border"/>
+    <item android:drawable="@drawable/edittext_style_border_backgroundmain"/>
 
 
 </selector>

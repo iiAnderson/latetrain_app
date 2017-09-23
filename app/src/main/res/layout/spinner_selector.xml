@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="12dp"
-        android:background="@drawable/edittext_style"
-        android:ems="10"
-        android:fontFamily="sans-serif-smallcaps"
-        android:gravity="center_horizontal"
-        android:padding="9dp"
-        android:textColor="@color/backgroundTintPrimary"
-        android:textColorHint="@drawable/edittext_hint_removal"/>
-</LinearLayout>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView123"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="12dp"
+    android:background="@drawable/spinner_style"
+    android:ems="10"
+    android:fontFamily="@font/pontano_sans"
+    android:gravity="start"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp"
+    android:text="TextView"
+    android:textColor="@color/backgroundTintPrimary" />
